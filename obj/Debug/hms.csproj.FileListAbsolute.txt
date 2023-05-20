@@ -1,0 +1,15 @@
+C:\Users\kanha\source\repos\hms\obj\Debug\hms.csproj.AssemblyReference.cache
+C:\Users\kanha\source\repos\hms\obj\Debug\hms.csproj.SuggestedBindingRedirects.cache
+C:\Users\kanha\source\repos\hms\obj\Debug\hms.Properties.Resources.resources
+C:\Users\kanha\source\repos\hms\obj\Debug\hms.csproj.GenerateResource.cache
+C:\Users\kanha\source\repos\hms\obj\Debug\hms.csproj.CoreCompileInputs.cache
+C:\Users\kanha\source\repos\hms\bin\Debug\hms.exe.config
+C:\Users\kanha\source\repos\hms\bin\Debug\hms.exe
+C:\Users\kanha\source\repos\hms\bin\Debug\hms.pdb
+C:\Users\kanha\source\repos\hms\obj\Debug\hms.home.resources
+C:\Users\kanha\source\repos\hms\obj\Debug\hms.exe
+C:\Users\kanha\source\repos\hms\obj\Debug\hms.pdb
+C:\Users\kanha\source\repos\hms\obj\Debug\hms.Hostelite.resources
+C:\Users\kanha\source\repos\hms\obj\Debug\hms.Admin.resources
+C:\Users\kanha\source\repos\hms\obj\Debug\hms.Fees.resources
+C:\Users\kanha\source\repos\hms\obj\Debug\hms.Hostel.resources
